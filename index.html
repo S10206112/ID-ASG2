@@ -10,13 +10,25 @@
   </head>
   <body>
     <form class="search" action="">
-      <label for=""></label>
+      <label for="News"></label>
       <input class="input" type="text" />
       <input type="submit" />
     
     </form>
     <div class="container">
       <u1 class="class=list"></u1>
-      <div>
+      </div>
+    
+    <script>
+      const searchFrom = document.querySelector('.search');
+      const input = document.querySelector('.input');
+      const newsList = document.querySelector('.news-list');
+      
+      searchFrom.addEventListener('submit', retrieve)
+      function retrieve(e){
+        e.preventDefault()
+        const apiKey = '2358a271cd264c639fc86f2c6967aaf5'
+        let topic = input.value;
+        console,log(topic)
   </body>
 </html>
