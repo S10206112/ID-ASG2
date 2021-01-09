@@ -21,9 +21,9 @@ Features Left to Implement
 Another feature idea
 
 Technologies Used
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
-
-This website uses CSS as well as HTML for the programming, Javascript coding was used under the html page.JQuery was also used. Testing was used via Visual Studio Code For any scenarios that have not been automated, 
+HTML was used for the text as well as creating the physical search bar and button.
+JavaScript was used for fetching the API and manipulating the data in the API as well as providing the search results.
+CSS was used for the styling of the website as well as the design
 
 
 Try to submit the form with an invalid email address and verify that a relevant error message appears Try to submit the form with all inputs valid and verify that a success message appears. In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
