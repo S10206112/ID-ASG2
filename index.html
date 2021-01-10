@@ -27,6 +27,8 @@
       
       searchFrom.addEventListener('submit', retrieve)
       function retrieve(e){
+        newsList.innerHTML = ''
+        
         e.preventDefault()
         const apiKey = '2358a271cd264c639fc86f2c6967aaf5'
         let topic = input.value;
