@@ -3,6 +3,7 @@ My Assignment 2 Website
 This project is for [ID] Interactive Development ASG2. The website made using this project will be used to help other people easily look for archived news articles.
 
 Link to working website : https://s10206112.github.io/ID-ASG2/index.html
+Link to Adobe XD : https://xd.adobe.com/view/978e59e8-fc12-4bc1-889c-7fbc47ad2736-c2dd/?fullscreen
 
 Design Process
 This website is used to bring convenience for users that wish to look up for specific articles of interests in the past.
